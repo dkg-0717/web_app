@@ -1,0 +1,33 @@
+{
+  "name": "insignias",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "core-js": "^3.6.4",
+    "font-awesome": "^4.7.0",
+    "gsap": "^3.2.6",
+    "moment": "^2.24.0",
+    "preloadjs": "^1.0.1",
+    "soundjs": "^1.0.1",
+    "vue": "^2.6.11",
+    "vue-router": "^3.1.6",
+    "vue-youtube": "^1.4.0",
+    "vuex": "^3.1.3",
+    "vuex-persist": "^2.2.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.2.3",
+    "@vue/cli-plugin-eslint": "^4.2.3",
+    "@vue/cli-service": "^4.2.3",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}

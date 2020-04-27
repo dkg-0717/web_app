@@ -1,0 +1,8 @@
+{
+  "maxPage": 15,
+  "titles": [
+    { "page": 0, "name": "Esencia", "color": "#18354c" },
+    { "page": 5, "name": "Negocio", "color": "#006b3b" },
+    { "page": 10, "name": "Employee Experience", "color": "#66a5be" }
+  ]
+}
