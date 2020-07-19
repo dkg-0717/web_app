@@ -1,4 +1,4 @@
 module.exports = {
     // publicPath: process.env.NODE_ENV === 'production' ? '' : '/'
-    publicPath: process.env.NODE_ENV === 'production' ? '/web_app/' : '/'
+    publicPath: process.env.NODE_ENV === 'production' ? '' : '/'
 }
